@@ -1,0 +1,110 @@
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.MenuClientes.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.Login.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.MenuPrincipal.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Facturas.AggFactura.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.MenuProductos.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.MenuVendedores.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Vendedores.Registro.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.Inventario.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.MenuClientes.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Facturas.AggFactura.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.Login.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.MenuPrincipal.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.MenuProductos.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.Frm_Inventario.resources
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion._Inventario.MenuVendedores.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.MenuClientes.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Facturas.AggFactura.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.Frm_Inventario.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.Login.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.MenuPrincipal.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.MenuProductos.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion._Inventario.MenuVendedores.resources
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Desktop\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Clientes.MenuClientes.resources
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Facturas.AggFactura.resources
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Inventario.Frm_Inventario.resources
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.Login.resources
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.MenuPrincipal.resources
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.MenuProductos.resources
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion._Inventario.MenuVendedores.resources
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Sena CSET\Documents\NaturVida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

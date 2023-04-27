@@ -1,0 +1,27 @@
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Documents\NaturVida\CapaDatos\obj\Debug\CapaDatos.pdb

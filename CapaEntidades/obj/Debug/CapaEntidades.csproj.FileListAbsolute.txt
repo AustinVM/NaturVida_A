@@ -1,0 +1,12 @@
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.pdb
