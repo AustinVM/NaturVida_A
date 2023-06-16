@@ -47,7 +47,7 @@ namespace CapaNegocios
             List<string> credencialees = oCd_Vendedor.AutenticarVendedor(AutenticarVendedor);
             AutenticarVendedor.Contraseña = EncriptarContrasenia(AutenticarVendedor);
 
-            if (credencialees.Count == 0 || credencialees == null)
+            if (credencialees == null || credencialees.Count == 0)
             {
                 AutenVende = 3; // Usuario no existe
             }

@@ -10,3 +10,9 @@ C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\obj\Debug\CapaEntidad
 C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
 C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.dll
 C:\Users\villa\OneDrive\Documentos\NaturVida\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaEntidades\obj\Debug\CapaEntidades.pdb

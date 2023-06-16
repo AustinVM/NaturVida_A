@@ -31,3 +31,14 @@ C:\Users\Sena CSET\Documents\NaturVida\CapaNegocios\obj\Debug\CapaNegocios.cspro
 C:\Users\Sena CSET\Documents\NaturVida\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
 C:\Users\Sena CSET\Documents\NaturVida\CapaNegocios\obj\Debug\CapaNegocios.dll
 C:\Users\Sena CSET\Documents\NaturVida\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_A\CapaNegocios\obj\Debug\CapaNegocios.pdb
